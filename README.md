@@ -54,10 +54,10 @@ Current Learning: Deep dive into Asynchronous Python (Asyncio) and optimizing Dj
 
 <p align="center">
 <!-- Replace username with your GitHub username: Liamwolf56 -->
-<a href="https://www.google.com/search?q=https://github.com/Liamwolf56/github-stats">
+<a href="https://github.com/Liamwolf56">
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DLiamwolf56%26show_icons%3Dtrue%26theme%3Donedark%26hide_border%3Dtrue" alt="Liam's GitHub Stats"/>
 </a>
-<a href="https://www.google.com/search?q=https://github.com/Liamwolf56/github-stats">
+<a href="https://github.com/Liamwolf56">
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DLiamwolf56%26layout%3Dcompact%26langs_count%3D6%26theme%3Donedark%26hide_border%3Dtrue" alt="Top Languages"/>
 </a>
 </p>
