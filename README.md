@@ -6,25 +6,12 @@ I'm a Python Developer focused on building efficient, modern, and scalable appli
 
 Here are the technologies and languages I work with regularly, with a focus on the Python ecosystem:
 
-Category
-
-Tools & Technologies
-
-Languages
-
-Python (Core), JavaScript, SQL, Go
-
-Web Frameworks
-
-Django, FastAPI, Flask, Node.js (Express), REST APIs
-
-Data & Science
-
-Pandas, NumPy, Scikit-learn, Matplotlib
-
-Infrastructure
-
-PostgreSQL, MongoDB, Docker, AWS/GCP, Redis
+| Category | Tools & Technologies |
+| :--- | :--- |
+| Languages | Python (Core), JavaScript, SQL, Go |
+| Web Frameworks | Django, FastAPI, Flask, Node.js (Express), REST APIs |
+| Data & Science | Pandas, NumPy, Scikit-learn, Matplotlib |
+| Infrastructure | PostgreSQL, MongoDB, Docker, AWS/GCP, Redis |
 
 Development Tools
 
