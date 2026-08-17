@@ -20,6 +20,7 @@ Git, WSL (Windows Subsystem for Linux), Gobot (IoT/Robotics), GitHub Actions, ps
 
 These are a few of the projects I'm most proud of, or what I'm focusing on right now. Make sure these are the repositories you pin on your profile!
 
+- **Math Fall Game:** A fast-paced, terminal-based math reaction game written in Python using `curses`. Features 10 progressive levels, smooth flickering-free rendering, dynamic speed scaling, and live score tracking.
 - **Pac-Man - Ghost Wall Pass (GUI Version):** A custom Pygame implementation of Pac-Man featuring randomized maze generation, tilemap assets, special fruit power-ups, high score tracking, and a rare ghost wall-pass mechanic.
 - **Modular ToDo REST API (Rate Limited):** A high-performance, modular backend built with FastAPI and SQLite. Key features include robust Redis rate limiting, asynchronous endpoints, and a clear separation of concerns between API routes and database logic.
 - **8-Puzzle Solver:** A high-performance solver utilizing the A* Search Algorithm and an optimized Pattern Database (PDB) heuristic to find the optimal solution for any solvable puzzle configuration in near real-time.
